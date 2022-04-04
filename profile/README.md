@@ -1,4 +1,4 @@
-![header-image](.github/profile/Team-Dark-Developers.png)
+![header-image](.github/Team-Dark-Developers.png)
 
 ## Hi there 👋
 
