@@ -1,4 +1,5 @@
-![header-image](.github/Team-Dark-Developers.png)
+![header-image](https://user-images.githubusercontent.com/88544216/161545980-40514c30-4d8d-452c-bf84-08efb5f3ed98.png)
+
 
 ## Hi there 👋
 
