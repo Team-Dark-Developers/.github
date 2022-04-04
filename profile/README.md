@@ -27,3 +27,8 @@ Developer's Website link [here](https://fragnite.live)
 #### Note - Some comamnds are not working that can be seen through `!!botupdates` command
 
 Demon's docs - (Will be added soon! Stay Tuned!)
+
+-----------
+
+
+###### This Repo is created and maintained by [@ItzzNeo13](https://github.com/ItzzNeo13)
