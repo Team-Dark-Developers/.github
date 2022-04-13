@@ -31,4 +31,4 @@ Demon's docs - (Will be added soon! Stay Tuned!)
 -----------
 
 
-###### This Repo is created and maintained by [@ItzzNeo13](https://github.com/ItzzNeo13)
+ <a href="https://github.com/ItzzNeo13" alt="https://github.com/ItzzNeo13"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=ItzzNeo13&color=000000"></a>
