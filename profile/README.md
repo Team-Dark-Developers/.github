@@ -24,7 +24,7 @@ Developer's Website link [here](https://fragnite.live)
 
 #
 
-#### Note - Some comamnds are not working that can be seen through `!!botupdates` command
+#### Note - Some commands are not working that can be seen through `!!botupdates` command
 
 Demon's docs - (Will be added soon! Stay Tuned!)
 
