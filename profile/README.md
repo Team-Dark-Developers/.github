@@ -31,5 +31,5 @@ Demon's docs - (Will be added soon! Stay Tuned!)
 -----------
 
 
- <a href="https://github.com/ItzzNeo13" alt="https://github.com/ItzzNeo13"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=ItzzNeo13&color=000000"></a>
+<a href="https://github.com/ItzzNeo13" alt="https://github.com/ItzzNeo13"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=ItzzNeo13&color=000000"></a>
 <img src="https://img.shields.io/github/last-commit/Team-Dark-Developers/.github?style=for-the-badge">
