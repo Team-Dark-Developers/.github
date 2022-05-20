@@ -26,7 +26,7 @@ Developer's Website link [here](https://fragnite.live)
 
 #### Note - Some commands are not working that can be seen through `!!botupdates` command
 
-Demon's docs - (Will be added soon! Stay Tuned!)
+Demon's docs - [Check Wiki](https://github.com/Team-Dark-Developers/demon-bot-documentation)
 
 -----------
 
