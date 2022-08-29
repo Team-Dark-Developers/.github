@@ -22,7 +22,7 @@ Link to invite Demon to your servers [here](https://bit.ly/Demon-Invite)
 
 Developer's Website link [here](https://fragnite.live)
 
-Demon's Website [here](https://www.demon-bot.tk/)
+Demon's Website link [here](https://www.demon-bot.tk/)
 
 #
 
