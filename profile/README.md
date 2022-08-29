@@ -22,6 +22,8 @@ Link to invite Demon to your servers [here](https://bit.ly/Demon-Invite)
 
 Developer's Website link [here](https://fragnite.live)
 
+Demon's Website [here](https://www.demon-bot.tk/)
+
 #
 
 #### Note - Some commands are not working that can be seen through `!!botupdates` command
